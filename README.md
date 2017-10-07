@@ -12,5 +12,5 @@ allprojects {
 # Step 2. Add the dependency
 
   dependencies {
-        compile 'com.github.young08:RefreshLayout:V1.0'
+        compile 'com.github.theyoungl:RefreshLayout:V1.0'
     }
