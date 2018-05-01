@@ -1,4 +1,4 @@
-# RefreshLayout
+# RefreshLayout 刷新控件
 
 # Add it in your root build.gradle at the end of repositories:
     allprojects{
@@ -11,5 +11,5 @@
          }
 # Step 2. Add the dependency
     dependencies{
-        compile 'com.github.theyoungl:RefreshLayout:V1.0'
+       implementation 'com.github.mraben:RefreshLayout:V1.0'
     }
